@@ -1,0 +1,28 @@
+9 I. Introduction
++17 1. Architecture, Performance and Games
+27 II. Design Patterns Revisted
++29 2. Command
++41 3. Flyweight
++51 4. Observer
++67 5. Prototype
++81 6. Singleton
++95 7. State
+113 III. Sequencing Patterns
++115 8. Double Buffer
++131 9. Game Loop
++147 10. Update Method
+161 IV. Behavioral Patterns
++163 11. Bytecode
++189 12. Subclass Sandbox
++201 13. Type Object
+219 V. Decoupling Patterns
++221 14. Component
++241 15. Event Queue
++259 16. Service Locator
+275 VI. Optimization Patterns
++277 17. Data Locality
++299 18. Dirty Flag
++313 19. Object Pool
++329 20. Spatial Partition
+
+
