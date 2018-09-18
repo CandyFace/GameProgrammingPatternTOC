@@ -1,10 +1,10 @@
-This repository is a meant to be a guide to generate a table fo content for the book GameProgrammingPatterns.
+This repository is a meant to be a guide to generate a table of content for the book GameProgrammingPatterns.
 
 The repo does NOT contain the book itself, either compile it yourself through the authors repository and convert it to a pdf or buy the book from the authors website [below](#requirements)
 
 I usually like to read on my e-ink tablet but after purchasing the book as pdf I noticed that it didn't contain a table of content, I therefore went on to see what it would take (if possible at all) to add it to an existing pdf..
 
-I stumbled over k2pdfopt which seemed to be just the tool I was looking for. Unfortunately by default it does a bunch of "optimization" that modifies the pdf heavily to supposedly make it "easier" to read. I didn't need any of that though, so I looked into how to add my table of content without modifying the pdf and fortunately it's possible.
+I stumbled over k2pdfopt which seemed to be just the tool I was looking for. Unfortunately by default it does a bunch of unwanted behaviors that we are not interested.
 
 ## Here's what you'll need
 ### Requirements
